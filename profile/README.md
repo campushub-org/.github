@@ -9,12 +9,9 @@ CampusHub automatise la **planification des examens**, le **suivi des cours** et
 
 | Module | Description | Lien |
 |--------|-------------|------|
-| 🧠 Auth Service | Gestion des utilisateurs, rôles et authentification (JWT) | [campushub-auth-service](https://github.com/campushub-org/campushub-auth-service) |
-| 🗓️ Scheduling Service | Planification des cours et examens avec détection des conflits | [campushub-scheduling-service](https://github.com/campushub-org/campushub-scheduling-service) |
 | 💾 Config | Configuration centralisée pour tous les microservices (Spring Cloud Config) | [campushub-config](https://github.com/campushub-org/campushub-config) |
 | 🌐 Frontend | Interface web intuitive et responsive (React) | [campushub-frontend](https://github.com/campushub-org/campushub-frontend) |
-| 🚪 Gateway | API Gateway et routage sécurisé | [campushub-gateway](https://github.com/campushub-org/campushub-gateway) |
-| 🛠️ Deployment | Scripts de déploiement, Docker Compose et Kubernetes | [campushub-deployment](https://github.com/campushub-org/campushub-deployment) |
+| ⚙️ Campushub | Documentation | [campushub](https://github.com/campushub-org/campushub) |
 
 ---
 
