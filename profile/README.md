@@ -11,8 +11,10 @@ CampusHub automatise la **planification des examens**, le **suivi des cours** et
 |--------|-------------|------|
 | 💾 Config | Configuration centralisée pour tous les microservices (Spring Cloud Config) | [campushub-config](https://github.com/campushub-org/campushub-config) |
 | 🌐 Frontend | Interface web intuitive et responsive (React) | [campushub-frontend](https://github.com/campushub-org/campushub-frontend) |
-| ⚙️ Campushub | Documentation | [campushub](https://github.com/campushub-org/campushub) |
-
+|  Campushub | Documentation | [campushub](https://github.com/campushub-org/campushub) |
+|  Campushub-user-service | auth/gestion utilisateur | [campushub](https://github.com/campushub-org/campushub-user-service) |
+|  Campushub-gateway-service | pacerelle d'entrée | [campushub](https://github.com/campushub-org/campushub-gateway-service) |
+|  Campushub-support-service | gestion des supports de cour | [campushub](https://github.com/campushub-org/campushub-support-service) |
 ---
 
 ## 🧩 Architecture
